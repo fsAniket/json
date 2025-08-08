@@ -1,0 +1,50 @@
+[
+  {
+    "id":"1",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/coca-cola.svg",
+    "title": "coca-cola",
+    "alt": "coca-cola"
+  },
+  {
+    "id":"2",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/adidas.svg",
+    "title": "adidas",
+    "alt": "adidas"
+  },
+  {
+    "id":"3",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/microsoft.svg",
+    "title": "microsoft",
+    "alt": "microsoft"
+  },
+  {
+    "id":"4",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/toyota.svg",
+    "title": "toyota",
+    "alt": "toyota"
+  },
+  {
+    "id":"5",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/oracle.svg",
+    "title": "oracle",
+    "alt": "oracle"
+  },
+  {
+    "id":"6",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/gartner.svg",
+    "title": "gartner",
+    "alt": "gartner"
+  },
+  {
+    "id":"7",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/tiktok.svg",
+    "title": "tiktok",
+    "alt": "tiktok"
+  },
+  {
+    "id":"8",
+    "src": "https://cdn.feedspot.com/media-contact-database/images/ads/SIEMENS.svg",
+    "title": "SIEMENS",
+    "alt": "SIEMENS"
+  }
+]
